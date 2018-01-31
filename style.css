@@ -37,7 +37,7 @@ a{
   color: rgb(70,70,70);
 }
 a:hover {
-  color:white;
+  color: white;
 }
 .container {
   width: 800px;
@@ -62,6 +62,9 @@ a:hover {
 }
 .description-align p {
   width: 400px;
+}
+.description-align a {
+  color: rgb(50,50,50);
 }
 .btn-red {
   background: rgb(200,0,0);
@@ -97,8 +100,6 @@ a:hover {
   margin-left: 300px;
 }
 footer {
-
-  background-image: url(photo2.jpg);
 
 }
 
