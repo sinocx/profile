@@ -37,7 +37,7 @@ a{
   color: rgb(70,70,70);
 }
 a:hover {
-  color:rgb(0,0,200);
+  color:rgb(0,0,0);
 }
 .container {
   width: 800px;
